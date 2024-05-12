@@ -38,3 +38,8 @@ The library includes a custom exception type, `FileUnlockerException`, which is 
 ## Contributing
 
 Contributions to `ChromeCookiesFileUnlocker` are welcome! Please submit a pull request or create an issue on the project's GitHub page.
+
+## REFERENCES
+
+- https://learn.microsoft.com/en-us/archive/msdn-magazine/2007/april/net-matters-restart-manager-and-generic-method-compilation
+- https://gist.github.com/csm10495/e89e660ffee0030e8ef410b793ad6a7e
